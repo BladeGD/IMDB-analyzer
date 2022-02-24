@@ -1,0 +1,1362 @@
+
+Remove word Frequency = 1
+No. 1 Valar Dohaeris
+-448.31737565264365, -512.6395804197908, positive, positive, right
+No. 2 And Now His Watch Is Ended
+-57.35216923654686, -66.3283084562148, positive, positive, right
+No. 3 Lord Snow
+-121.38957373573487, -139.4310167950764, positive, positive, right
+No. 4 Breaker of Chains
+-404.50230941635675, -462.6219378721487, positive, positive, right
+No. 5 Dark Wings, Dark Words
+-128.13035315670203, -147.12603872548289, positive, positive, right
+No. 6 The Night Lands
+-404.50230941635675, -462.6219378721487, positive, positive, right
+No. 7 Winter Is Coming
+-138.24152228815277, -158.6685716210926, positive, positive, right
+No. 8 Winter Is Coming
+-16.907492710743828, -20.158176873775822, positive, positive, right
+No. 9 Oathkeeper
+-279.7978901284633, -320.26403215962875, positive, positive, right
+No. 10 Two Swords
+-33.759441263161754, -39.395731699792066, positive, positive, right
+No. 11 And Now His Watch Is Ended
+-128.13035315670203, -147.12603872548289, positive, positive, right
+No. 12 Winter Is Coming
+-198.9085370768572, -227.92376899475096, positive, positive, right
+No. 13 What Is Dead May Never Die
+-387.6503608639387, -443.3843830461325, positive, positive, right
+No. 14 Cripples, Bastards, and Broken Things
+-610.0960817558552, -697.3201067495464, positive, positive, right
+No. 15 Valar Dohaeris
+-121.38957373573487, -139.4310167950764, positive, positive, right
+No. 16 The Kingsroad
+-266.31633128652885, -304.8739882988158, positive, positive, right
+No. 17 Winter Is Coming
+-653.9111479921413, -747.3377492971886, positive, positive, right
+No. 18 Breaker of Chains
+-23.648272131711, -27.85319880418232, positive, positive, right
+No. 19 Breaker of Chains
+-97.79684576234982, -112.4984400386537, positive, positive, right
+No. 20 Winter Is Coming
+-225.87165476072582, -258.7038567163769, positive, positive, right
+No. 21 The Kingsroad
+-202.27892678734077, -231.7712799599542, positive, positive, right
+No. 22 Valar Dohaeris
+-168.57502968250498, -193.29617030792178, positive, positive, right
+No. 23 The Kingsroad
+-27.018661842194586, -31.70070976938557, positive, positive, right
+No. 24 Garden of Bones
+-16.907492710743828, -20.158176873775822, positive, positive, right
+No. 25 Winter Is Coming
+-50.611389815579685, -58.63328652580831, positive, positive, right
+No. 26 The Night Lands
+-20.277882421227414, -24.00568783897907, positive, positive, right
+No. 27 Garden of Bones
+-3.425933868809485, -4.768133012962828, positive, positive, right
+No. 28 Oathkeeper
+-118.01918402525129, -135.58350582987316, positive, positive, right
+No. 29 Winter Is Coming
+-131.5007428671856, -150.97354969068613, positive, positive, right
+No. 30 Lord Snow
+-6.7963235792930705, -8.615643978166077, positive, positive, right
+No. 31 Cripples, Bastards, and Broken Things
+-131.5007428671856, -150.97354969068613, positive, positive, right
+No. 32 Two Swords
+-20.277882421227414, -24.00568783897907, positive, positive, right
+No. 33 Lord Snow
+-188.79736794540645, -216.38123609914123, positive, positive, right
+No. 34 Lord Snow
+-273.05711070749607, -312.5690102292223, positive, positive, right
+No. 35 Walk of Punishment
+-20.277882421227414, -24.00568783897907, positive, positive, right
+No. 36 The Kingsroad
+-606.7256920453716, -693.4725957843432, positive, positive, right
+No. 37 And Now His Watch Is Ended
+-101.1672354728334, -116.34595100385694, positive, positive, right
+No. 38 Cripples, Bastards, and Broken Things
+-239.35321360266013, -274.09390057718986, positive, positive, right
+No. 39 Lord Snow
+-259.57555186556164, -297.1789663684093, positive, positive, right
+No. 40 Garden of Bones
+-3.425933868809485, -4.768133012962828, positive, positive, right
+No. 41 Breaker of Chains
+-229.2420444712094, -262.55136768158013, positive, positive, right
+No. 42 The North Remembers
+-404.50230941635675, -462.6219378721487, positive, positive, right
+No. 43 What Is Dead May Never Die
+-20.277882421227414, -24.00568783897907, positive, positive, right
+No. 44 The Night Lands
+-121.38957373573487, -139.4310167950764, positive, positive, right
+No. 45 Winter Is Coming
+-141.61191199863634, -162.51608258629585, positive, positive, right
+No. 46 Two Swords
+-266.31633128652885, -304.8739882988158, positive, positive, right
+No. 47 Valar Dohaeris
+-37.12983097364534, -43.243242664995314, positive, positive, right
+No. 48 Dark Wings, Dark Words
+-144.98230170911992, -166.3635935514991, positive, positive, right
+No. 49 The North Remembers
+-94.42645605186624, -108.65092907345046, positive, positive, right
+No. 50 Valar Dohaeris
+-94.42645605186624, -108.65092907345046, positive, positive, right
+No. 51 Oathkeeper
+-10.166713289776656, -12.463154943369325, positive, positive, right
+No. 52 The Night Lands
+-23.648272131711, -27.85319880418232, positive, positive, right
+No. 53 Valar Dohaeris
+-10.166713289776656, -12.463154943369325, positive, positive, right
+No. 54 And Now His Watch Is Ended
+-20.277882421227414, -24.00568783897907, positive, positive, right
+No. 55 Winter Is Coming
+-84.3152869204155, -97.10839617784073, positive, positive, right
+No. 56 Valar Dohaeris
+-262.94594157604524, -301.02647733361255, positive, positive, right
+No. 57 And Now His Watch Is Ended
+-347.2056843381354, -397.2142514636936, positive, positive, right
+No. 58 The North Remembers
+-6.7963235792930705, -8.615643978166077, positive, positive, right
+No. 59 The North Remembers
+-209.01970620830792, -239.46630189036068, positive, positive, right
+No. 60 What Is Dead May Never Die
+-30.389051552678172, -35.54822073458882, positive, positive, right
+No. 61 Walk of Punishment
+-27.018661842194586, -31.70070976938557, positive, positive, right
+No. 62 Two Swords
+-148.3526914196035, -170.21110451670233, positive, positive, right
+No. 63 Walk of Punishment
+-118.01918402525129, -135.58350582987316, positive, positive, right
+No. 64 Dark Wings, Dark Words
+-411.24308883732397, -470.3169598025552, positive, positive, right
+No. 65 And Now His Watch Is Ended
+-374.1688020220043, -427.9943391853195, positive, positive, right
+No. 66 Dark Wings, Dark Words
+-144.98230170911992, -166.3635935514991, positive, positive, right
+No. 67 Valar Dohaeris
+-37.12983097364534, -43.243242664995314, positive, positive, right
+No. 68 The North Remembers
+-215.76048562927508, -247.16132382076717, positive, positive, right
+No. 69 Garden of Bones
+-310.13139752281575, -354.89163084645793, positive, positive, right
+No. 70 The Night Lands
+-77.57450749944834, -89.41337424743425, positive, positive, right
+No. 71 Breaker of Chains
+-10.166713289776656, -12.463154943369325, positive, positive, right
+No. 72 And Now His Watch Is Ended
+-124.75996344621845, -143.27852776027964, positive, positive, right
+No. 73 Walk of Punishment
+-20.277882421227414, -24.00568783897907, positive, positive, right
+No. 74 The North Remembers
+-333.724125496201, -381.8242076028806, positive, positive, right
+No. 75 Two Swords
+-249.46438273411087, -285.6364334727996, positive, positive, right
+No. 76 Walk of Punishment
+-121.38957373573487, -139.4310167950764, positive, positive, right
+No. 77 Winter Is Coming
+-16.907492710743828, -20.158176873775822, positive, positive, right
+No. 78 And Now His Watch Is Ended
+-13.537103000260242, -16.310665908572574, positive, positive, right
+No. 79 Oathkeeper
+-148.3526914196035, -170.21110451670233, positive, positive, right
+No. 80 The Kingsroad
+-43.87061039461251, -50.93826459540181, positive, positive, right
+No. 81 Dark Wings, Dark Words
+-94.42645605186624, -108.65092907345046, positive, positive, right
+No. 82 What Is Dead May Never Die
+-303.39061810184853, -347.19660891605145, positive, positive, right
+No. 83 Dark Wings, Dark Words
+-10.166713289776656, -12.463154943369325, positive, positive, right
+No. 84 The Lion and the Rose
+-30.389051552678172, -35.54822073458882, positive, positive, right
+No. 85 Winter Is Coming
+-219.13087533975866, -251.0088347859704, positive, positive, right
+No. 86 The Night Lands
+-10.166713289776656, -12.463154943369325, positive, positive, right
+No. 87 Lord Snow
+-27.018661842194586, -31.70070976938557, positive, positive, right
+No. 88 The Kingsroad
+-118.01918402525129, -135.58350582987316, positive, positive, right
+No. 89 Winter Is Coming
+-232.61243418169298, -266.3988786467834, positive, positive, right
+No. 90 Two Swords
+-148.3526914196035, -170.21110451670233, positive, positive, right
+No. 91 The Kingsroad
+-43.87061039461251, -50.93826459540181, positive, positive, right
+No. 92 Lord Snow
+-97.79684576234982, -112.4984400386537, positive, positive, right
+No. 93 Dark Wings, Dark Words
+-286.5386695494305, -327.95905409003524, positive, positive, right
+No. 94 Lord Snow
+-64.09294865751403, -74.02333038662128, positive, positive, right
+No. 95 The North Remembers
+-30.389051552678172, -35.54822073458882, positive, positive, right
+No. 96 The North Remembers
+-77.57450749944834, -89.41337424743425, positive, negative, wrong
+No. 97 Lord Snow
+-27.018661842194586, -31.70070976938557, positive, negative, wrong
+No. 98 The North Remembers
+-16.907492710743828, -20.158176873775822, positive, negative, wrong
+No. 99 What Is Dead May Never Die
+-205.64931649782434, -235.61879092515744, positive, negative, wrong
+No. 100 Garden of Bones
+-569.6514052300525, -651.1499751671075, positive, negative, wrong
+No. 101 Oathkeeper
+-144.98230170911992, -166.3635935514991, positive, negative, wrong
+No. 102 Walk of Punishment
+-20.277882421227414, -24.00568783897907, positive, negative, wrong
+No. 103 What Is Dead May Never Die
+-114.64879431476771, -131.73599486466992, positive, negative, wrong
+No. 104 The Night Lands
+-16.907492710743828, -20.158176873775822, positive, negative, wrong
+No. 105 The Night Lands
+-74.20411778896477, -85.565863282231, positive, negative, wrong
+No. 106 The Kingsroad
+-296.6498386808813, -339.50158698564496, positive, negative, wrong
+No. 107 Valar Dohaeris
+-269.68672099701246, -308.72149926401903, positive, negative, wrong
+No. 108 The North Remembers
+-549.4290669671512, -628.0649093758881, positive, negative, wrong
+No. 109 Lord Snow
+-198.9085370768572, -227.92376899475096, positive, negative, wrong
+No. 110 Oathkeeper
+-77.57450749944834, -89.41337424743425, positive, negative, wrong
+No. 111 The North Remembers
+-40.50022068412893, -47.09075363019856, positive, negative, wrong
+
+The prediction correctness (F measure) is 0.0
+--------------------------------------------------
+
+Remove word Frequency <= 10
+No. 1 Valar Dohaeris
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 2 And Now His Watch Is Ended
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 3 Lord Snow
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 4 Breaker of Chains
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 5 Dark Wings, Dark Words
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 6 The Night Lands
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 7 Winter Is Coming
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 8 Winter Is Coming
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 9 Oathkeeper
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 10 Two Swords
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 11 And Now His Watch Is Ended
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 12 Winter Is Coming
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 13 What Is Dead May Never Die
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 14 Cripples, Bastards, and Broken Things
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 15 Valar Dohaeris
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 16 The Kingsroad
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 17 Winter Is Coming
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 18 Breaker of Chains
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 19 Breaker of Chains
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 20 Winter Is Coming
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 21 The Kingsroad
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 22 Valar Dohaeris
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 23 The Kingsroad
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 24 Garden of Bones
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 25 Winter Is Coming
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 26 The Night Lands
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 27 Garden of Bones
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 28 Oathkeeper
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 29 Winter Is Coming
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 30 Lord Snow
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 31 Cripples, Bastards, and Broken Things
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 32 Two Swords
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 33 Lord Snow
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 34 Lord Snow
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 35 Walk of Punishment
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 36 The Kingsroad
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 37 And Now His Watch Is Ended
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 38 Cripples, Bastards, and Broken Things
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 39 Lord Snow
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 40 Garden of Bones
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 41 Breaker of Chains
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 42 The North Remembers
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 43 What Is Dead May Never Die
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 44 The Night Lands
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 45 Winter Is Coming
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 46 Two Swords
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 47 Valar Dohaeris
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 48 Dark Wings, Dark Words
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 49 The North Remembers
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 50 Valar Dohaeris
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 51 Oathkeeper
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 52 The Night Lands
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 53 Valar Dohaeris
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 54 And Now His Watch Is Ended
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 55 Winter Is Coming
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 56 Valar Dohaeris
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 57 And Now His Watch Is Ended
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 58 The North Remembers
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 59 The North Remembers
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 60 What Is Dead May Never Die
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 61 Walk of Punishment
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 62 Two Swords
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 63 Walk of Punishment
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 64 Dark Wings, Dark Words
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 65 And Now His Watch Is Ended
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 66 Dark Wings, Dark Words
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 67 Valar Dohaeris
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 68 The North Remembers
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 69 Garden of Bones
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 70 The Night Lands
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 71 Breaker of Chains
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 72 And Now His Watch Is Ended
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 73 Walk of Punishment
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 74 The North Remembers
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 75 Two Swords
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 76 Walk of Punishment
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 77 Winter Is Coming
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 78 And Now His Watch Is Ended
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 79 Oathkeeper
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 80 The Kingsroad
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 81 Dark Wings, Dark Words
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 82 What Is Dead May Never Die
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 83 Dark Wings, Dark Words
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 84 The Lion and the Rose
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 85 Winter Is Coming
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 86 The Night Lands
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 87 Lord Snow
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 88 The Kingsroad
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 89 Winter Is Coming
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 90 Two Swords
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 91 The Kingsroad
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 92 Lord Snow
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 93 Dark Wings, Dark Words
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 94 Lord Snow
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 95 The North Remembers
+-0.059230430179834356, -0.8945181071086005, positive, positive, right
+No. 96 The North Remembers
+-0.059230430179834356, -0.8945181071086005, positive, negative, wrong
+No. 97 Lord Snow
+-0.059230430179834356, -0.8945181071086005, positive, negative, wrong
+No. 98 The North Remembers
+-0.059230430179834356, -0.8945181071086005, positive, negative, wrong
+No. 99 What Is Dead May Never Die
+-0.059230430179834356, -0.8945181071086005, positive, negative, wrong
+No. 100 Garden of Bones
+-0.059230430179834356, -0.8945181071086005, positive, negative, wrong
+No. 101 Oathkeeper
+-0.059230430179834356, -0.8945181071086005, positive, negative, wrong
+No. 102 Walk of Punishment
+-0.059230430179834356, -0.8945181071086005, positive, negative, wrong
+No. 103 What Is Dead May Never Die
+-0.059230430179834356, -0.8945181071086005, positive, negative, wrong
+No. 104 The Night Lands
+-0.059230430179834356, -0.8945181071086005, positive, negative, wrong
+No. 105 The Night Lands
+-0.059230430179834356, -0.8945181071086005, positive, negative, wrong
+No. 106 The Kingsroad
+-0.059230430179834356, -0.8945181071086005, positive, negative, wrong
+No. 107 Valar Dohaeris
+-0.059230430179834356, -0.8945181071086005, positive, negative, wrong
+No. 108 The North Remembers
+-0.059230430179834356, -0.8945181071086005, positive, negative, wrong
+No. 109 Lord Snow
+-0.059230430179834356, -0.8945181071086005, positive, negative, wrong
+No. 110 Oathkeeper
+-0.059230430179834356, -0.8945181071086005, positive, negative, wrong
+No. 111 The North Remembers
+-0.059230430179834356, -0.8945181071086005, positive, negative, wrong
+
+The prediction correctness (F measure) is 0.0
+--------------------------------------------------
+
+Remove word Frequency <= 20
+No. 1 Valar Dohaeris
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 2 And Now His Watch Is Ended
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 3 Lord Snow
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 4 Breaker of Chains
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 5 Dark Wings, Dark Words
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 6 The Night Lands
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 7 Winter Is Coming
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 8 Winter Is Coming
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 9 Oathkeeper
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 10 Two Swords
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 11 And Now His Watch Is Ended
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 12 Winter Is Coming
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 13 What Is Dead May Never Die
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 14 Cripples, Bastards, and Broken Things
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 15 Valar Dohaeris
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 16 The Kingsroad
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 17 Winter Is Coming
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 18 Breaker of Chains
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 19 Breaker of Chains
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 20 Winter Is Coming
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 21 The Kingsroad
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 22 Valar Dohaeris
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 23 The Kingsroad
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 24 Garden of Bones
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 25 Winter Is Coming
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 26 The Night Lands
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 27 Garden of Bones
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 28 Oathkeeper
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 29 Winter Is Coming
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 30 Lord Snow
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 31 Cripples, Bastards, and Broken Things
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 32 Two Swords
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 33 Lord Snow
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 34 Lord Snow
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 35 Walk of Punishment
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 36 The Kingsroad
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 37 And Now His Watch Is Ended
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 38 Cripples, Bastards, and Broken Things
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 39 Lord Snow
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 40 Garden of Bones
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 41 Breaker of Chains
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 42 The North Remembers
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 43 What Is Dead May Never Die
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 44 The Night Lands
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 45 Winter Is Coming
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 46 Two Swords
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 47 Valar Dohaeris
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 48 Dark Wings, Dark Words
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 49 The North Remembers
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 50 Valar Dohaeris
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 51 Oathkeeper
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 52 The Night Lands
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 53 Valar Dohaeris
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 54 And Now His Watch Is Ended
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 55 Winter Is Coming
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 56 Valar Dohaeris
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 57 And Now His Watch Is Ended
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 58 The North Remembers
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 59 The North Remembers
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 60 What Is Dead May Never Die
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 61 Walk of Punishment
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 62 Two Swords
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 63 Walk of Punishment
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 64 Dark Wings, Dark Words
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 65 And Now His Watch Is Ended
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 66 Dark Wings, Dark Words
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 67 Valar Dohaeris
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 68 The North Remembers
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 69 Garden of Bones
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 70 The Night Lands
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 71 Breaker of Chains
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 72 And Now His Watch Is Ended
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 73 Walk of Punishment
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 74 The North Remembers
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 75 Two Swords
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 76 Walk of Punishment
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 77 Winter Is Coming
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 78 And Now His Watch Is Ended
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 79 Oathkeeper
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 80 The Kingsroad
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 81 Dark Wings, Dark Words
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 82 What Is Dead May Never Die
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 83 Dark Wings, Dark Words
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 84 The Lion and the Rose
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 85 Winter Is Coming
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 86 The Night Lands
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 87 Lord Snow
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 88 The Kingsroad
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 89 Winter Is Coming
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 90 Two Swords
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 91 The Kingsroad
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 92 Lord Snow
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 93 Dark Wings, Dark Words
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 94 Lord Snow
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 95 The North Remembers
+-0.06662115830254121, -0.847056971986445, positive, positive, right
+No. 96 The North Remembers
+-0.06662115830254121, -0.847056971986445, positive, negative, wrong
+No. 97 Lord Snow
+-0.06662115830254121, -0.847056971986445, positive, negative, wrong
+No. 98 The North Remembers
+-0.06662115830254121, -0.847056971986445, positive, negative, wrong
+No. 99 What Is Dead May Never Die
+-0.06662115830254121, -0.847056971986445, positive, negative, wrong
+No. 100 Garden of Bones
+-0.06662115830254121, -0.847056971986445, positive, negative, wrong
+No. 101 Oathkeeper
+-0.06662115830254121, -0.847056971986445, positive, negative, wrong
+No. 102 Walk of Punishment
+-0.06662115830254121, -0.847056971986445, positive, negative, wrong
+No. 103 What Is Dead May Never Die
+-0.06662115830254121, -0.847056971986445, positive, negative, wrong
+No. 104 The Night Lands
+-0.06662115830254121, -0.847056971986445, positive, negative, wrong
+No. 105 The Night Lands
+-0.06662115830254121, -0.847056971986445, positive, negative, wrong
+No. 106 The Kingsroad
+-0.06662115830254121, -0.847056971986445, positive, negative, wrong
+No. 107 Valar Dohaeris
+-0.06662115830254121, -0.847056971986445, positive, negative, wrong
+No. 108 The North Remembers
+-0.06662115830254121, -0.847056971986445, positive, negative, wrong
+No. 109 Lord Snow
+-0.06662115830254121, -0.847056971986445, positive, negative, wrong
+No. 110 Oathkeeper
+-0.06662115830254121, -0.847056971986445, positive, negative, wrong
+No. 111 The North Remembers
+-0.06662115830254121, -0.847056971986445, positive, negative, wrong
+
+The prediction correctness (F measure) is 0.0
+--------------------------------------------------
+
+Remove word percentage top 5%
+No. 1 Valar Dohaeris
+-1131.8507654735106, -1253.3579532515346, positive, positive, right
+No. 2 And Now His Watch Is Ended
+-97.20568846864144, -109.48244147532978, positive, positive, right
+No. 3 Lord Snow
+-233.3440049166102, -260.70666167625177, positive, positive, right
+No. 4 Breaker of Chains
+-1066.1861837122476, -1179.6846152049316, positive, positive, right
+No. 5 Dark Wings, Dark Words
+-215.109251838239, -241.31894113767203, positive, positive, right
+No. 6 The Night Lands
+-933.8551615663246, -1036.2154832194415, positive, positive, right
+No. 7 Winter Is Coming
+-296.8408026382669, -330.50245561513884, positive, positive, right
+No. 8 Winter Is Coming
+-31.36501544832231, -35.809103428726814, positive, positive, right
+No. 9 Oathkeeper
+-639.9433527390196, -710.5017781713018, positive, positive, right
+No. 10 Two Swords
+-76.9792426097194, -86.21717682903409, positive, positive, right
+No. 11 And Now His Watch Is Ended
+-293.792562303382, -326.6249115074229, positive, positive, right
+No. 12 Winter Is Coming
+-451.03778090554994, -501.1143963546406, positive, positive, right
+No. 13 What Is Dead May Never Die
+-988.3833295423831, -1094.3786448351807, positive, positive, right
+No. 14 Cripples, Bastards, and Broken Things
+-1334.4127176499042, -1482.1330556067755, positive, positive, right
+No. 15 Valar Dohaeris
+-233.3440049166102, -260.70666167625177, positive, positive, right
+No. 16 The Kingsroad
+-544.081836749839, -605.8080872629712, positive, positive, right
+No. 17 Winter Is Coming
+-1400.0772994111674, -1555.8063936533786, positive, positive, right
+No. 18 Breaker of Chains
+-41.74237526636683, -47.44173575187464, positive, positive, right
+No. 19 Breaker of Chains
+-238.15315784205194, -264.5842057839677, positive, positive, right
+No. 20 Winter Is Coming
+-496.1237342897797, -551.5224697549479, positive, positive, right
+No. 21 The Kingsroad
+-375.75489329340354, -419.68597009260566, positive, positive, right
+No. 22 Valar Dohaeris
+-309.5620377549735, -346.01263204600264, positive, positive, right
+No. 23 The Kingsroad
+-73.7549110157788, -82.33963272131814, positive, positive, right
+No. 24 Garden of Bones
+-56.40061423268603, -62.951912182738404, positive, positive, right
+No. 25 Winter Is Coming
+-93.98135687470084, -105.60489736761383, positive, positive, right
+No. 26 The Night Lands
+-66.95406530978623, -74.58454450588624, positive, positive, right
+No. 27 Garden of Bones
+-17.76332403633718, -20.29892699786304, positive, positive, right
+No. 28 Oathkeeper
+-233.52009617566588, -260.70666167625177, positive, positive, right
+No. 29 Winter Is Coming
+-257.85132992380693, -287.8494704302634, positive, positive, right
+No. 30 Lord Snow
+-14.010718665229536, -16.421382890147093, positive, positive, right
+No. 31 Cripples, Bastards, and Broken Things
+-286.46344282022244, -318.869823291991, positive, positive, right
+No. 32 Two Swords
+-34.76543830131859, -39.686647536442756, positive, positive, right
+No. 33 Lord Snow
+-319.23503253679525, -357.6452643691505, positive, positive, right
+No. 34 Lord Snow
+-600.9538800245591, -667.8487929864264, positive, positive, right
+No. 35 Walk of Punishment
+-34.76543830131859, -39.686647536442756, positive, positive, right
+No. 36 The Kingsroad
+-1341.7418371330625, -1489.8881438222074, positive, positive, right
+No. 37 And Now His Watch Is Ended
+-187.90586901426872, -210.29858827594444, positive, positive, right
+No. 38 Cripples, Bastards, and Broken Things
+-498.9958833656089, -555.4000138626639, positive, positive, right
+No. 39 Lord Snow
+-497.9393358112748, -555.4000138626639, positive, positive, right
+No. 40 Garden of Bones
+-21.339838148389145, -24.176471105578983, positive, positive, right
+No. 41 Breaker of Chains
+-413.6878184535294, -462.3389552774811, positive, positive, right
+No. 42 The North Remembers
+-1041.1505849278842, -1152.54180645092, positive, positive, right
+No. 43 What Is Dead May Never Die
+-34.76543830131859, -39.686647536442756, positive, positive, right
+No. 44 The Night Lands
+-236.92051902866217, -264.5842057839677, positive, positive, right
+No. 45 Winter Is Coming
+-325.2768242756267, -361.52280847686643, positive, positive, right
+No. 46 Two Swords
+-472.5515545087999, -528.2572051086522, positive, positive, right
+No. 47 Valar Dohaeris
+-58.9205807904039, -66.82945629045435, positive, positive, right
+No. 48 Dark Wings, Dark Words
+-289.33559189605165, -322.74736739970695, positive, positive, right
+No. 49 The North Remembers
+-141.7633680757045, -159.8905148756371, positive, positive, right
+No. 50 Valar Dohaeris
+-198.98759386853598, -221.93122059909228, positive, positive, right
+No. 51 Oathkeeper
+-17.41114151822582, -20.29892699786304, positive, positive, right
+No. 52 The Night Lands
+-48.89540349047075, -55.19682396730652, positive, positive, right
+No. 53 Valar Dohaeris
+-17.41114151822582, -20.29892699786304, positive, positive, right
+No. 54 And Now His Watch Is Ended
+-41.91846652542251, -47.44173575187464, positive, positive, right
+No. 55 Winter Is Coming
+-213.8219240939109, -237.44139702995608, positive, positive, right
+No. 56 Valar Dohaeris
+-401.1973635268168, -450.70632295433325, positive, positive, right
+No. 57 And Now His Watch Is Ended
+-643.5745557820097, -718.2568663867337, positive, positive, right
+No. 58 The North Remembers
+-10.434204553177572, -12.543838782431148, positive, positive, right
+No. 59 The North Remembers
+-364.67316843913636, -408.0533377694578, positive, positive, right
+No. 60 What Is Dead May Never Die
+-52.119735084411346, -59.07436807502246, positive, positive, right
+No. 61 Walk of Punishment
+-55.87234045551899, -62.951912182738404, positive, positive, right
+No. 62 Two Swords
+-292.7360147490479, -326.6249115074229, positive, positive, right
+No. 63 Walk of Punishment
+-244.2496385118218, -272.3392939993996, positive, positive, right
+No. 64 Dark Wings, Dark Words
+-1033.6453741856692, -1144.786718235488, positive, positive, right
+No. 65 And Now His Watch Is Ended
+-1103.5361461642688, -1218.460056282091, positive, positive, right
+No. 66 Dark Wings, Dark Words
+-264.2999931116881, -295.6045586456953, positive, positive, right
+No. 67 Valar Dohaeris
+-83.95617957476766, -93.97226504446598, positive, positive, right
+No. 68 The North Remembers
+-392.9330988174405, -439.0736906311854, positive, positive, right
+No. 69 Garden of Bones
+-534.6396221580111, -598.0529990475393, positive, positive, right
+No. 70 The Night Lands
+-135.49079614687898, -152.1354266602052, positive, positive, right
+No. 71 Breaker of Chains
+-17.41114151822582, -20.29892699786304, positive, positive, right
+No. 72 And Now His Watch Is Ended
+-200.97928664908682, -225.80876470680823, positive, positive, right
+No. 73 Walk of Punishment
+-34.76543830131859, -39.686647536442756, positive, positive, right
+No. 74 The North Remembers
+-705.0796607231158, -784.1751162179048, positive, positive, right
+No. 75 Two Swords
+-441.24338379561084, -493.3593081392087, positive, positive, right
+No. 76 Walk of Punishment
+-294.14474482149336, -326.6249115074229, positive, positive, right
+No. 77 Winter Is Coming
+-49.24758600858211, -55.19682396730652, positive, positive, right
+No. 78 And Now His Watch Is Ended
+-27.964592595326028, -31.931559321010873, positive, positive, right
+No. 79 Oathkeeper
+-282.0064724128921, -314.99227918427505, positive, positive, right
+No. 80 The Kingsroad
+-94.3335393928122, -105.60489736761383, positive, positive, right
+No. 81 Dark Wings, Dark Words
+-195.411079756484, -218.05367649137634, positive, positive, right
+No. 82 What Is Dead May Never Die
+-674.4758550461489, -749.2772192484613, positive, positive, right
+No. 83 Dark Wings, Dark Words
+-17.41114151822582, -20.29892699786304, positive, positive, right
+No. 84 The Lion and the Rose
+-44.966706860307426, -51.31927985959058, positive, positive, right
+No. 85 Winter Is Coming
+-528.6645438163586, -586.4203667243914, positive, positive, right
+No. 86 The Night Lands
+-20.987655630277782, -24.176471105578983, positive, positive, right
+No. 87 Lord Snow
+-52.29582634346703, -59.07436807502246, positive, positive, right
+No. 88 The Kingsroad
+-262.1322090720816, -291.72701453797936, positive, positive, right
+No. 89 Winter Is Coming
+-456.429896539097, -508.8694845700725, positive, positive, right
+No. 90 Two Swords
+-292.7360147490479, -326.6249115074229, positive, positive, right
+No. 91 The Kingsroad
+-97.91005350486417, -109.48244147532978, positive, positive, right
+No. 92 Lord Snow
+-173.77590382511653, -194.78841184508065, positive, positive, right
+No. 93 Dark Wings, Dark Words
+-575.2139162039725, -640.7059842324147, positive, positive, right
+No. 94 Lord Snow
+-121.88910473489385, -136.62525022934142, positive, positive, right
+No. 95 The North Remembers
+-62.849277420567226, -70.7070003981703, positive, positive, right
+No. 96 The North Remembers
+-171.25593726739865, -190.9108677373647, positive, negative, wrong
+No. 97 Lord Snow
+-52.29582634346703, -59.07436807502246, positive, negative, wrong
+No. 98 The North Remembers
+-88.58924124115372, -97.84980915218193, positive, negative, wrong
+No. 99 What Is Dead May Never Die
+-368.425773810244, -411.93088187717376, positive, negative, wrong
+No. 100 Garden of Bones
+-1275.7250728536885, -1416.2148057756044, positive, negative, wrong
+No. 101 Oathkeeper
+-303.6416483442594, -338.25754383057074, positive, negative, wrong
+No. 102 Walk of Punishment
+-77.68360764594213, -86.21717682903409, positive, negative, wrong
+No. 103 What Is Dead May Never Die
+-169.31893341778616, -190.9108677373647, positive, negative, wrong
+No. 104 The Night Lands
+-38.51804367242623, -43.5641916441587, positive, negative, wrong
+No. 105 The Night Lands
+-200.04414142287007, -221.93122059909228, positive, negative, wrong
+No. 106 The Kingsroad
+-685.5575799004168, -760.9098515716091, positive, negative, wrong
+No. 107 Valar Dohaeris
+-622.5890559559267, -691.114057632722, positive, negative, wrong
+No. 108 The North Remembers
+-1080.0733442451644, -1202.9498798512273, positive, negative, wrong
+No. 109 Lord Snow
+-343.7423575439918, -384.7880731231621, positive, negative, wrong
+No. 110 Oathkeeper
+-242.786219508438, -268.46174989168367, positive, negative, wrong
+No. 111 The North Remembers
+-76.62706009160804, -86.21717682903409, positive, negative, wrong
+
+The prediction correctness (F measure) is 0.0
+--------------------------------------------------
+
+Remove word percentage top 10%
+No. 1 Valar Dohaeris
+-1106.264681161007, -1227.7101847184588, positive, positive, right
+No. 2 And Now His Watch Is Ended
+-94.99505773585632, -107.21012652197462, positive, positive, right
+No. 3 Lord Snow
+-228.04305998176, -255.3440325208315, positive, positive, right
+No. 4 Breaker of Chains
+-1042.1056370879292, -1155.5423843600397, positive, positive, right
+No. 5 Dark Wings, Dark Words
+-210.20450103185868, -236.35250611072163, positive, positive, right
+No. 6 The Night Lands
+-912.7064514926839, -1015.0050889252238, positive, positive, right
+No. 7 Winter Is Coming
+-290.1135588409254, -323.7135275972275, positive, positive, right
+No. 8 Winter Is Coming
+-30.659922403722625, -35.04232616355711, positive, positive, right
+No. 9 Oathkeeper
+-625.4507040236704, -695.9474452353807, positive, positive, right
+No. 10 Two Swords
+-75.24404483109815, -84.42029482984279, positive, positive, right
+No. 11 And Now His Watch Is Ended
+-287.14455733173446, -319.9152223152055, positive, positive, right
+No. 12 Winter Is Coming
+-440.8240287776747, -490.83896000619546, positive, positive, right
+No. 13 What Is Dead May Never Die
+-966.0460370833321, -1071.9796681555545, positive, positive, right
+No. 14 Cripples, Bastards, and Broken Things
+-1304.1515426214548, -1451.81019635776, positive, positive, right
+No. 15 Valar Dohaeris
+-228.04305998176, -255.3440325208315, positive, positive, right
+No. 16 The Kingsroad
+-531.7286363282269, -593.3932026207882, positive, positive, right
+No. 17 Winter Is Coming
+-1368.3105866945323, -1523.9779967161792, positive, positive, right
+No. 18 Breaker of Chains
+-40.79956574468525, -46.43724200962304, positive, positive, right
+No. 19 Breaker of Chains
+-232.77297408150775, -259.1423378028535, positive, positive, right
+No. 20 Winter Is Coming
+-484.8798774278831, -540.216928672481, positive, positive, right
+No. 21 The Kingsroad
+-367.20515650510123, -411.0745490837335, positive, positive, right
+No. 22 Valar Dohaeris
+-302.51783865485623, -338.9067487253155, positive, positive, right
+No. 23 The Kingsroad
+-72.09895206285152, -80.62198954782082, positive, positive, right
+No. 24 Garden of Bones
+-55.140849408228604, -61.630463137710954, positive, positive, right
+No. 25 Winter Is Coming
+-91.8499649676097, -103.41182123995264, positive, positive, right
+No. 26 The Night Lands
+-65.4565840082469, -73.02537898377687, positive, positive, right
+No. 27 Garden of Bones
+-17.375186294513362, -19.849105035469194, positive, positive, right
+No. 28 Oathkeeper
+-228.21915124081568, -255.3440325208315, positive, positive, right
+No. 29 Winter Is Coming
+-251.99571320909888, -281.9321694949855, positive, positive, right
+No. 30 Lord Snow
+-13.701819749099688, -16.050799753447215, positive, positive, right
+No. 31 Cripples, Bastards, and Broken Things
+-279.9739154999628, -312.3186117511615, positive, positive, right
+No. 32 Two Swords
+-33.98110643102494, -38.840631445579085, positive, positive, right
+No. 33 Lord Snow
+-311.9531169595961, -350.3016645713815, positive, positive, right
+No. 34 Lord Snow
+-587.3328583918438, -654.1660871331393, positive, positive, right
+No. 35 Walk of Punishment
+-33.98110643102494, -38.840631445579085, positive, positive, right
+No. 36 The Kingsroad
+-1311.3221844532272, -1459.4068069218042, positive, positive, right
+No. 37 And Now His Watch Is Ended
+-183.63502881344021, -205.96606385454587, positive, positive, right
+No. 38 Cripples, Bastards, and Broken Things
+-487.6727876780184, -544.015233954503, positive, positive, right
+No. 39 Lord Snow
+-486.6162401236843, -544.015233954503, positive, positive, right
+No. 40 Garden of Bones
+-20.87246158087136, -23.647410317491172, positive, positive, right
+No. 41 Breaker of Chains
+-404.26645458259367, -452.85590718597547, positive, positive, right
+No. 42 The North Remembers
+-1017.6247100834237, -1128.9542473858853, positive, positive, right
+No. 43 What Is Dead May Never Die
+-33.98110643102494, -38.840631445579085, positive, positive, right
+No. 44 The Night Lands
+-231.54033526811799, -259.1423378028535, positive, positive, right
+No. 45 Winter Is Coming
+-317.91566987273364, -354.0999698534035, positive, positive, right
+No. 46 Two Swords
+-461.783130601067, -517.4270969803493, positive, positive, right
+No. 47 Valar Dohaeris
+-57.58157714025251, -65.42876841973293, positive, positive, right
+No. 48 Dark Wings, Dark Words
+-282.76682575009806, -316.1169170331835, positive, positive, right
+No. 49 The North Remembers
+-138.5226326088977, -156.58809518826024, positive, positive, right
+No. 50 Valar Dohaeris
+-194.47903719062555, -217.36097970061178, positive, positive, right
+No. 51 Oathkeeper
+-17.023003776402003, -19.849105035469194, positive, positive, right
+No. 52 The Night Lands
+-47.79411631740125, -54.033852573667, positive, positive, right
+No. 53 Valar Dohaeris
+-17.023003776402003, -19.849105035469194, positive, positive, right
+No. 54 And Now His Watch Is Ended
+-40.975657003740935, -46.43724200962304, positive, positive, right
+No. 55 Winter Is Coming
+-208.99641211322455, -232.55420082869966, positive, positive, right
+No. 56 Valar Dohaeris
+-392.0137161329629, -441.46099133990947, positive, positive, right
+No. 57 And Now His Watch Is Ended
+-628.9234294152731, -703.5440557994245, positive, positive, right
+No. 58 The North Remembers
+-10.204544462741692, -12.252494471425239, positive, positive, right
+No. 59 The North Remembers
+-356.3611481279159, -399.6796332376675, positive, positive, right
+No. 60 What Is Dead May Never Die
+-50.93920908564788, -57.832157855688976, positive, positive, right
+No. 61 Walk of Punishment
+-54.61257563106156, -61.630463137710954, positive, positive, right
+No. 62 Two Swords
+-286.0880097774004, -319.9152223152055, positive, positive, right
+No. 63 Walk of Punishment
+-238.71097709988965, -266.7389483668975, positive, positive, right
+No. 64 Dark Wings, Dark Words
+-1010.2779769925959, -1121.3576368218412, positive, positive, right
+No. 65 And Now His Watch Is Ended
+-1078.6632112830098, -1193.5254371802603, positive, positive, right
+No. 66 Dark Wings, Dark Words
+-258.28589874559214, -289.5287800590295, positive, positive, right
+No. 67 Valar Dohaeris
+-82.06250414475845, -92.01690539388673, positive, positive, right
+No. 68 The North Remembers
+-383.98716790066845, -430.06607549384347, positive, positive, right
+No. 69 Garden of Bones
+-522.4448993877871, -585.7965920567443, positive, positive, right
+No. 70 The Night Lands
+-132.40853833146014, -148.9914846242163, positive, positive, right
+No. 71 Breaker of Chains
+-17.023003776402003, -19.849105035469194, positive, positive, right
+No. 72 And Now His Watch Is Ended
+-196.3914911454824, -221.15928498263375, positive, positive, right
+No. 73 Walk of Punishment
+-33.98110643102494, -38.840631445579085, positive, positive, right
+No. 74 The North Remembers
+-689.0814743195822, -768.1152455937976, positive, positive, right
+No. 75 Two Swords
+-431.1881093191235, -483.24234944215146, positive, positive, right
+No. 76 Walk of Punishment
+-287.4967398498458, -319.9152223152055, positive, positive, right
+No. 77 Winter Is Coming
+-48.14629883551261, -54.033852573667, positive, positive, right
+No. 78 And Now His Watch Is Ended
+-27.33873837642031, -31.24402088153513, positive, positive, right
+No. 79 Oathkeeper
+-275.5961839183264, -308.5203064691395, positive, positive, right
+No. 80 The Kingsroad
+-92.20214748572106, -103.41182123995264, positive, positive, right
+No. 81 Dark Wings, Dark Words
+-190.98176190426756, -213.5626744185898, positive, positive, right
+No. 82 What Is Dead May Never Die
+-659.1908180738615, -733.9304980556001, positive, positive, right
+No. 83 Dark Wings, Dark Words
+-17.023003776402003, -19.849105035469194, positive, positive, right
+No. 84 The Lion and the Rose
+-43.94465851293189, -50.23554729164502, positive, positive, right
+No. 85 Winter Is Coming
+-516.7075375232165, -574.4016762106785, positive, positive, right
+No. 86 The Night Lands
+-20.520279062759997, -23.647410317491172, positive, positive, right
+No. 87 Lord Snow
+-51.11530034470356, -57.832157855688976, positive, positive, right
+No. 88 The Kingsroad
+-256.1973535316796, -285.7304747770075, positive, positive, right
+No. 89 Winter Is Coming
+-446.05766675983386, -498.43557057023946, positive, positive, right
+No. 90 Two Swords
+-286.0880097774004, -319.9152223152055, positive, positive, right
+No. 91 The Kingsroad
+-95.69942277207905, -107.21012652197462, positive, positive, right
+No. 92 Lord Snow
+-169.82201892706394, -190.77284272645798, positive, positive, right
+No. 93 Dark Wings, Dark Words
+-562.1475663511151, -627.5779501589857, positive, positive, right
+No. 94 Lord Snow
+-119.12380222225089, -133.7982634961284, positive, positive, right
+No. 95 The North Remembers
+-61.43103494472187, -69.2270737017549, positive, positive, right
+No. 96 The North Remembers
+-167.38129119504003, -186.974537444436, positive, negative, wrong
+No. 97 Lord Snow
+-51.11530034470356, -57.832157855688976, positive, negative, wrong
+No. 98 The North Remembers
+-86.61632698545053, -95.8152106759087, positive, negative, wrong
+No. 99 What Is Dead May Never Die
+-360.03451467332957, -403.4779385196895, positive, negative, wrong
+No. 100 Garden of Bones
+-1246.8109578620376, -1387.2390065633851, positive, negative, wrong
+No. 101 Oathkeeper
+-296.75592689553, -331.3101381612715, positive, negative, wrong
+No. 102 Walk of Punishment
+-75.94840986732088, -84.42029482984279, positive, negative, wrong
+No. 103 What Is Dead May Never Die
+-165.44428734542754, -186.974537444436, positive, negative, wrong
+No. 104 The Night Lands
+-37.65447297643862, -42.63893672760106, positive, negative, wrong
+No. 105 The Night Lands
+-195.53558474495964, -217.36097970061178, positive, negative, wrong
+No. 106 The Kingsroad
+-670.0348264510461, -745.3254139016659, positive, negative, wrong
+No. 107 Valar Dohaeris
+-608.4926013690475, -676.9559188252709, positive, negative, wrong
+No. 108 The North Remembers
+-1055.5173646666844, -1178.332216052172, positive, negative, wrong
+No. 109 Lord Snow
+-335.905770186935, -376.8898015455355, positive, negative, wrong
+No. 110 Oathkeeper
+-237.32679692219983, -262.9406430848755, positive, negative, wrong
+No. 111 The North Remembers
+-74.89186231298679, -84.42029482984279, positive, negative, wrong
+
+The prediction correctness (F measure) is 0.0
+--------------------------------------------------
+
+Remove word percentage top 20%
+No. 1 Valar Dohaeris
+-1068.5680156149149, -1190.0268638036, positive, positive, right
+No. 2 And Now His Watch Is Ended
+-91.7255657606439, -103.95397917799205, positive, positive, right
+No. 3 Lord Snow
+-220.2221789581949, -247.5364961284963, positive, positive, right
+No. 4 Breaker of Chains
+-1006.6263149243672, -1120.076406827715, positive, positive, right
+No. 5 Dark Wings, Dark Words
+-202.96713142474903, -229.1284811348419, positive, positive, right
+No. 6 The Night Lands
+-881.5451138108942, -983.8570958746742, positive, positive, right
+No. 7 Winter Is Coming
+-280.1920367181207, -313.8053501056517, positive, positive, right
+No. 8 Winter Is Coming
+-29.607773811041255, -34.003522202105586, positive, positive, right
+No. 9 Oathkeeper
+-604.0923581383371, -674.6024439812778, positive, positive, right
+No. 10 Two Swords
+-72.67476655563236, -81.86436118560685, positive, positive, right
+No. 11 And Now His Watch Is Ended
+-277.3397374922208, -310.12374710692086, positive, positive, right
+No. 12 Winter Is Coming
+-425.767606190062, -475.7958820498092, positive, positive, right
+No. 13 What Is Dead May Never Die
+-933.1341651521752, -1039.0811408556374, positive, positive, right
+No. 14 Cripples, Bastards, and Broken Things
+-1259.569442361192, -1407.241440728717, positive, positive, right
+No. 15 Valar Dohaeris
+-220.2221789581949, -247.5364961284963, positive, positive, right
+No. 16 The Kingsroad
+-513.5212520917546, -575.1991630155433, positive, positive, right
+No. 17 Winter Is Coming
+-1321.51114305174, -1477.191897704602, positive, positive, right
+No. 18 Breaker of Chains
+-39.39731030213055, -45.048331198298186, positive, positive, right
+No. 19 Breaker of Chains
+-224.83539077465156, -251.2180991272272, positive, positive, right
+No. 20 Winter Is Coming
+-468.30632515748624, -523.6567210333105, positive, positive, right
+No. 21 The Kingsroad
+-354.5994818666014, -398.4822190764613, positive, positive, right
+No. 22 Valar Dohaeris
+-292.12950739888714, -328.5317621005751, positive, positive, right
+No. 23 The Kingsroad
+-69.64637607067684, -78.18275818687599, positive, positive, right
+No. 24 Garden of Bones
+-53.271784832509454, -59.77474319322165, positive, positive, right
+No. 25 Winter Is Coming
+-88.69717527568838, -100.27237617926119, positive, positive, right
+No. 26 The Night Lands
+-63.23741258265443, -70.81955218941425, positive, positive, right
+No. 27 Garden of Bones
+-16.789846834996435, -19.27711020718212, positive, positive, right
+No. 28 Oathkeeper
+-220.39827021725057, -247.5364961284963, positive, positive, right
+No. 29 Winter Is Coming
+-243.35791620249614, -273.30771711961233, positive, positive, right
+No. 30 Lord Snow
+-13.233182572873867, -15.59550720845125, positive, positive, right
+No. 31 Cripples, Bastards, and Broken Things
+-270.40250022703134, -302.76054110945915, positive, positive, right
+No. 32 Two Swords
+-32.81225555505246, -37.68512520083645, positive, positive, right
+No. 33 Lord Snow
+-301.21467885375375, -339.5765710967677, positive, positive, right
+No. 34 Lord Snow
+-567.2582376227131, -634.1048109952378, positive, positive, right
+No. 35 Walk of Punishment
+-32.81225555505246, -37.68512520083645, positive, positive, right
+No. 36 The Kingsroad
+-1266.506679626382, -1414.6046467261785, positive, positive, right
+No. 37 And Now His Watch Is Ended
+-177.33127747265928, -199.67565714499486, positive, positive, right
+No. 38 Cripples, Bastards, and Broken Things
+-470.9825331243304, -527.3383240320414, positive, positive, right
+No. 39 Lord Snow
+-469.9259855699963, -527.3383240320414, positive, positive, right
+No. 40 Garden of Bones
+-20.170419838063324, -22.958713205912986, positive, positive, right
+No. 41 Breaker of Chains
+-390.37705482789187, -438.9798520625007, positive, positive, right
+No. 42 The North Remembers
+-982.9623039028997, -1094.3051858365993, positive, positive, right
+No. 43 What Is Dead May Never Die
+-32.81225555505246, -37.68512520083645, positive, positive, right
+No. 44 The Night Lands
+-223.6027519612618, -251.2180991272272, positive, positive, right
+No. 45 Winter Is Coming
+-307.0605294836002, -343.25817409549853, positive, positive, right
+No. 46 Two Swords
+-445.90979203041667, -501.5671030409252, positive, positive, right
+No. 47 Valar Dohaeris
+-55.59581028124225, -63.45634619195252, positive, positive, right
+No. 48 Dark Wings, Dark Words
+-273.0787081938755, -306.44214410819, positive, positive, right
+No. 49 The North Remembers
+-133.73601095090095, -151.8148181614934, positive, positive, right
+No. 50 Valar Dohaeris
+-187.82517899997134, -210.7204661411875, positive, positive, right
+No. 51 Oathkeeper
+-16.437664316885073, -19.27711020718212, positive, positive, right
+No. 52 The Night Lands
+-46.15845630826432, -52.41153719575992, positive, positive, right
+No. 53 Valar Dohaeris
+-16.437664316885073, -19.27711020718212, positive, positive, right
+No. 54 And Now His Watch Is Ended
+-39.57340156118623, -45.048331198298186, positive, positive, right
+No. 55 Winter Is Coming
+-201.87574478940599, -225.44687813611102, positive, positive, right
+No. 56 Valar Dohaeris
+-378.47442322813436, -427.93504306630814, positive, positive, right
+No. 57 And Now His Watch Is Ended
+-607.3316789633575, -681.9656499787396, positive, positive, right
+No. 58 The North Remembers
+-9.85260956980698, -11.913904209720382, positive, positive, right
+No. 59 The North Remembers
+-344.10558033928936, -387.43741008026876, positive, positive, right
+No. 60 What Is Dead May Never Die
+-49.18684679321984, -56.093140194490786, positive, positive, right
+No. 61 Walk of Punishment
+-52.74351105534241, -59.77474319322165, positive, positive, right
+No. 62 Two Swords
+-276.28318993788673, -310.12374710692086, positive, positive, right
+No. 63 Walk of Punishment
+-230.53998922645127, -258.5813051246889, positive, positive, right
+No. 64 Dark Wings, Dark Words
+-975.8489753786542, -1086.9419798391377, positive, positive, right
+No. 65 And Now His Watch Is Ended
+-1042.0168662865374, -1156.8924368150228, positive, positive, right
+No. 66 Dark Wings, Dark Words
+-249.41469717240722, -280.67092311707404, positive, positive, right
+No. 67 Valar Dohaeris
+-79.25982130271045, -89.22756718306859, positive, positive, right
+No. 68 The North Remembers
+-370.7979818457132, -416.8902340701156, positive, positive, right
+No. 69 Garden of Bones
+-504.470919717897, -567.8359570180814, positive, positive, right
+No. 70 The Night Lands
+-127.85532124004555, -144.45161216403164, positive, positive, right
+No. 71 Breaker of Chains
+-16.437664316885073, -19.27711020718212, positive, positive, right
+No. 72 And Now His Watch Is Ended
+-189.6209306715371, -214.40206913991838, positive, positive, right
+No. 73 Walk of Punishment
+-32.81225555505246, -37.68512520083645, positive, positive, right
+No. 74 The North Remembers
+-665.5057850517171, -744.5529009571651, positive, positive, right
+No. 75 Two Swords
+-416.365091298093, -468.4326760523475, positive, positive, right
+No. 76 Walk of Punishment
+-277.6919200103322, -310.12374710692086, positive, positive, right
+No. 77 Winter Is Coming
+-46.51063882637568, -52.41153719575992, positive, positive, right
+No. 78 And Now His Watch Is Ended
+-26.40329206703005, -30.32191920337472, positive, positive, right
+No. 79 Oathkeeper
+-266.14147092868603, -299.0789381107283, positive, positive, right
+No. 80 The Kingsroad
+-89.04935779379974, -100.27237617926119, positive, positive, right
+No. 81 Dark Wings, Dark Words
+-184.44460599690444, -207.03886314245662, positive, positive, right
+No. 82 What Is Dead May Never Die
+-636.6654493556166, -711.4184739685869, positive, positive, right
+No. 83 Dark Wings, Dark Words
+-16.437664316885073, -19.27711020718212, positive, positive, right
+No. 84 The Lion and the Rose
+-42.42570078708607, -48.72993419702905, positive, positive, right
+No. 85 Winter Is Coming
+-499.0836647031997, -556.7911480218887, positive, positive, right
+No. 86 The Night Lands
+-19.81823731995196, -22.958713205912986, positive, positive, right
+No. 87 Lord Snow
+-49.362938052275524, -56.093140194490786, positive, positive, right
+No. 88 The Kingsroad
+-247.44285424178577, -276.9893201183432, positive, positive, right
+No. 89 Winter Is Coming
+-430.767839605639, -483.1590880472709, positive, positive, right
+No. 90 Two Swords
+-276.28318993788673, -310.12374710692086, positive, positive, right
+No. 91 The Kingsroad
+-92.42993079686663, -103.95397917799205, positive, positive, right
+No. 92 Lord Snow
+-163.98507671944736, -184.94924515007133, positive, positive, right
+No. 93 Dark Wings, Dark Words
+-542.8898615650224, -608.3335900041214, positive, positive, right
+No. 94 Lord Snow
+-115.03739426400074, -129.72520016910812, positive, positive, right
+No. 95 The North Remembers
+-59.3285658024205, -67.13794919068339, positive, positive, right
+No. 96 The North Remembers
+-161.66105127071455, -181.26764215134045, positive, negative, wrong
+No. 97 Lord Snow
+-49.362938052275524, -56.093140194490786, positive, negative, wrong
+No. 98 The North Remembers
+-83.69694186011142, -92.90917018179945, positive, negative, wrong
+No. 99 What Is Dead May Never Die
+-347.66224460141194, -391.1190130789996, positive, negative, wrong
+No. 100 Garden of Bones
+-1204.2127964177223, -1344.6541897502934, positive, negative, wrong
+No. 101 Oathkeeper
+-286.6010002061431, -321.1685561031134, positive, negative, wrong
+No. 102 Walk of Punishment
+-73.37913159185509, -81.86436118560685, positive, negative, wrong
+No. 103 What Is Dead May Never Die
+-159.72404742110206, -181.26764215134045, positive, negative, wrong
+No. 104 The Night Lands
+-36.368919817175026, -41.36672819956732, positive, negative, wrong
+No. 105 The Night Lands
+-188.88172655430543, -210.7204661411875, positive, negative, wrong
+No. 106 The Kingsroad
+-647.1593508829279, -722.4632829647796, positive, negative, wrong
+No. 107 Valar Dohaeris
+-587.71776690017, -656.1944289876233, positive, negative, wrong
+No. 108 The North Remembers
+-1019.3378288033759, -1142.1660248200997, positive, negative, wrong
+No. 109 Lord Snow
+-324.350416098055, -365.34779208788365, positive, negative, wrong
+No. 110 Oathkeeper
+-229.27251133205255, -254.89970212595807, positive, negative, wrong
+No. 111 The North Remembers
+-72.322584037521, -81.86436118560685, positive, negative, wrong
+
+The prediction correctness (F measure) is 0.0
+--------------------------------------------------
